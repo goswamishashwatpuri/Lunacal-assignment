@@ -175,11 +175,11 @@ function Widget2() {
               </div>
             </button>
 
-            <button onClick={handlePrevClick} className="circleButtonShadow mx-5 p-4 bg-bgcolor2 rounded-full bg-gradient-to-br from-[#303439] to-[#161718]">
+            <button onClick={handlePrevClick} className="circleButtonShadow mx-5 p-5 bg-bgcolor2 rounded-full bg-gradient-to-br from-[#303439] to-[#161718]">
               <img src="./leftarrow.svg" className="self-center" />
             </button>
 
-            <button onClick={handleNextClick} className="circleButtonShadow p-4 bg-bgcolor2 rounded-full bg-gradient-to-br from-[#303439] to-[#161718]">
+            <button onClick={handleNextClick} className="circleButtonShadow p-5 bg-bgcolor2 rounded-full bg-gradient-to-br from-[#303439] to-[#161718]">
               <img src="./rightarrow.svg" />
             </button>
           </div>
