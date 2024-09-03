@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.customShadow {
+    box-shadow: 5.67px 5.67px 3.78px 0px rgba(0, 0, 0, 0.4);
+    border-radius: 18px;
+}
+
+.buttonShadow {
+    box-shadow: -0.5px -0.5px 6.9px 0px rgba(255,255,255,0.25) , 9px 10px 7.1px 0px rgba(0, 0, 0, 0.4), inset 0px 0px 48.91px 0px rgba(255,255,255,0.05), inset 0px 3.26px 3.26px 0px rgba(255, 255, 255, 0.15);
+    /* box-shadow: inset 0px 3.26px 3.26px 0px rgba(255, 255, 255, 0.15), inset 0px 0px 48.91px -10px rgba(255,255,255,1), 9px 10px 7.1px 0px rgba(0, 0, 0, 0.4) ; */
+    border-radius: 104px;
+}
+
+.navButtonShadow {
+    box-shadow: 4px 5px 40px 10px rgba(16, 18, 19, 1);
+}
+
+.circleButtonShadow {
+    box-shadow: 5px -3px 30px -10px rgba(150,190,231,1), 4px 5px 30px 5px rgba(16,18,19,1);
+}
+
+
